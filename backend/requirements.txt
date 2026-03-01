@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+datasets
+faiss-cpu
+sentence-transformers
+numpy
+openai
